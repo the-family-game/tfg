@@ -1,0 +1,18 @@
+name: Decisione tecnica (ADR)
+description: Proporre una decisione architetturale, una dipendenza o un cambio di stack
+title: "adr: "
+labels: ["adr"]
+body:
+  - type: textarea
+    id: context
+    attributes:
+      label: Contesto
+      description: Quale problema va deciso e quali vincoli ci sono?
+    validations:
+      required: true
+  - type: textarea
+    id: options
+    attributes:
+      label: Alternative considerate
+    validations:
+      required: true

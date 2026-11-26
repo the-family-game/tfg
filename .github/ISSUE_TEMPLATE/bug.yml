@@ -1,0 +1,36 @@
+name: Bug
+description: Qualcosa non funziona come previsto
+title: "bug: "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Cosa succede
+      description: Descrivi il problema.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Passi per riprodurlo
+      placeholder: "1. ...\n2. ...\n3. ..."
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Cosa ti aspettavi
+    validations:
+      required: true
+  - type: input
+    id: spec
+    attributes:
+      label: Spec o criterio coinvolto
+      placeholder: "es. SPEC-0003, AC-002"
+  - type: checkboxes
+    id: minors
+    attributes:
+      label: Sicurezza
+      options:
+        - label: Il problema espone dati o contenuti che riguardano minori (se sì, usa invece la segnalazione privata di sicurezza)

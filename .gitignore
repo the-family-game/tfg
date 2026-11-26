@@ -1,0 +1,12 @@
+# Sistema operativo ed editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Segreti: non devono mai finire nel repository (constitution P5)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
