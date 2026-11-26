@@ -22,4 +22,4 @@ Vedi [CONTRIBUTING.md](CONTRIBUTING.md) e il [Codice di condotta](CODE_OF_CONDUC
 
 ## Licenza
 
-**Da definire.** Il codice è attualmente proprietario, tutti i diritti riservati. Vedi [LICENSE](LICENSE).
+[GNU AGPL-3.0-only](LICENSE). Per una licenza commerciale contatta il maintainer. La decisione è motivata in [ADR-0002](docs/adr/0002-licenza-agpl-3.0.md).

@@ -12,3 +12,4 @@ Il formato segue [Keep a Changelog](https://keepachangelog.com/it-IT/1.1.0/) e i
 - Struttura Spec-Driven Development: template di spec, piano e task, template ADR, glossario.
 - File standard open source: CONTRIBUTING, CODE_OF_CONDUCT, SECURITY, template di issue e PR, CODEOWNERS.
 - `CLAUDE.md` con le regole operative per gli agenti AI.
+- Licenza AGPL-3.0-only (ADR-0002).

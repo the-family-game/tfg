@@ -14,3 +14,4 @@ Stati: `Proposto` → `Accettato`, oppure `Rifiutato`, `Deprecato`, `Sostituito 
 | N. | Titolo | Stato |
 |---|---|---|
 | 0001 | Scelta dello stack tecnico | Da scrivere |
+| 0002 | [Licenza AGPL-3.0-only e repository pubblico](0002-licenza-agpl-3.0.md) | Proposto |

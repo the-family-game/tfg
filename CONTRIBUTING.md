@@ -27,7 +27,7 @@ Gli agenti AI propongono modifiche solo tramite pull request e non uniscono mai 
 
 ## Licenza dei contributi
 
-La licenza del progetto non è ancora stata definita (vedi [LICENSE](LICENSE)). Finché non lo sarà, non vengono accettati contributi esterni.
+Il progetto è distribuito sotto [AGPL-3.0-only](LICENSE). Per mantenere possibile la doppia licenza (vedi [ADR-0002](docs/adr/0002-licenza-agpl-3.0.md)), i contributi esterni saranno accettati solo dopo la firma di un Contributor License Agreement (CLA). Il CLA non è ancora stato adottato: fino ad allora sono benvenute issue e proposte, ma non pull request di codice da terzi.
 
 ## Codice di condotta
 
