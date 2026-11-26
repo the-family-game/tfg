@@ -1,0 +1,27 @@
+name: Proposta di funzionalità
+description: Un'idea per il gioco, che diventerà una spec
+title: "feat: "
+labels: ["proposta"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problema o bisogno
+      description: Chi ne ha bisogno e perché? (bambino, adulto, anziano, famiglia…)
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: Idea
+    validations:
+      required: true
+  - type: textarea
+    id: out-of-scope
+    attributes:
+      label: Cosa non deve fare
+  - type: textarea
+    id: privacy
+    attributes:
+      label: Dati personali coinvolti
+      description: La funzionalità raccoglie o mostra dati di persone, in particolare minori?
